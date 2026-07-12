@@ -258,17 +258,38 @@ pytest tests/test_etl.py::TestCleanNumber -v
 
 ## 📊 **Dashboard Features**
 
-| Feature | Description |
-|---------|-------------|
-| **KPI Cards** | Key metrics at a glance |
-| **YoY Heatmap** | Monthly arrivals across years |
-| **Time Series** | Full history with forecast |
-| **Confidence Intervals** | 80% prediction bands |
-| **Year Selector** | Drill down by year |
-| **Model Comparison** | MAPE comparison chart |
-| **Anomaly Detection** | Z-score based outliers |
-| **Data Export** | Download CSV files |
+### **1. Key Metrics Dashboard**
+- Total arrivals, average monthly, peak month
+- YoY growth indicators
+- Interactive year selector
 
+### **2. 📈 Forecast with Confidence Intervals**
+- Historical data (2018-2025) + 2026 forecast
+- 80% confidence interval visualization
+- Error bars showing prediction uncertainty
+
+### **3. 🔥 Year-over-Year Heatmap**
+- Monthly arrivals across all years
+- Growth rate heatmap
+- Color-coded performance visualization
+
+### **4. 🎯 What-if Scenario Simulator**
+- Adjust growth rates (-10% to +30%)
+- Economic scenarios (Pessimistic/Baseline/Optimistic)
+- Holiday impact scenarios
+- Shock scenarios (minor/major disruptions)
+- Real-time scenario comparison
+
+### **5. 🏆 Benchmarking**
+- Compare Sri Lanka vs 7 other destinations
+- Recovery rates vs pre-COVID
+- Global ranking metrics
+- Key observations
+
+### **6. 📋 Forecast Details**
+- Monthly breakdown with confidence bounds
+- Peak and low month identification
+- Data export (CSV download)
 ---
 
 ## 📋 **Notebooks**
@@ -302,10 +323,10 @@ MIT License - see [LICENSE](LICENSE) for details
 
 ## 📧 **Contact**
 
-- **Name:** Your Name
-- **Email:** your.email@example.com
+- **Name:** M.R.C.D.Bandara
+- **Email:**chithminibandara@gmail.com
 - **LinkedIn:** [your-linkedin](https://linkedin.com/in/your-profile)
-- **GitHub:** [your-username](https://github.com/yourusername)
+- **GitHub:** [your-username](https://github.com/IT24102854)
 
 ---
 
